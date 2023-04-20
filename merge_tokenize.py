@@ -17,7 +17,6 @@ entries_Schizophrenia=os.listdir("AI_diary_entries\Schizophrenia")
 entries_PTSD=os.listdir("AI_diary_entries\PTSD")
 entries_aam_aadmi=os.listdir("AI_diary_entries\\aam_aadmi")
 
-dic={}
 stop_words=list(stopwords.words("english"))
 stop_words.append("\\n")
 
