@@ -1,0 +1,16 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red199\green203\blue211;\red52\green54\blue66;}
+{\*\expandedcolortbl;;\cssrgb\c81961\c83529\c85882;\cssrgb\c26667\c27451\c32941;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa400\partightenfactor0
+
+\f0\fs32 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Dear Diary,\
+Today was a long day at work. I woke up early and had to rush to catch the train to the office. As soon as I arrived, I was greeted with a pile of paperwork that needed to be completed by the end of the day. I felt stressed and overwhelmed, but I knew I had to push through it.\
+As the day went on, my workload only increased. I had meetings with clients and colleagues, and I felt like I was constantly running from one task to another. I was able to complete most of my work, but I still felt like there was more to do.\
+During lunch, I took a short break and went for a walk outside. It felt good to get some fresh air and clear my head. However, as soon as I returned to the office, the stress and pressure of the day came crashing back down on me.\
+By the end of the workday, I was exhausted. I had given everything I had, but I still felt like it wasn't enough. I was anxious about what tomorrow would bring and whether I would be able to handle the workload.\
+As I headed home, I tried to let go of the stress and focus on the positive things in my life. I reminded myself that I have a job that I enjoy and a family that loves me. It's important to take a step back and appreciate what we have, even on the most challenging of days.\
+}

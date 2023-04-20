@@ -1,0 +1,17 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red199\green203\blue211;\red52\green54\blue66;}
+{\*\expandedcolortbl;;\cssrgb\c81961\c83529\c85882;\cssrgb\c26667\c27451\c32941;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa400\partightenfactor0
+
+\f0\fs32 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Dear Diary,\
+April 20th, 2023\
+Today has been a rollercoaster of emotions. I woke up feeling groggy and unmotivated. I had a hard time getting out of bed and starting my day. However, after I had my coffee and breakfast, I started to feel more awake and energized.\
+Around mid-morning, I had a meeting with my boss that didn't go as well as I had hoped. I felt frustrated and disappointed in myself for not being better prepared. I also felt angry at my boss for not being more understanding. I tried to shake it off and move on with my day, but the negative feelings lingered.\
+At lunchtime, I went for a walk outside to clear my head. The fresh air and sunshine helped lift my mood, and I started to feel more positive again. I even stopped to take a few pictures of the flowers blooming in the park.\
+In the afternoon, I had a productive work session and was able to cross several items off my to-do list. I felt proud of myself and motivated to keep going. However, towards the end of the workday, I started to feel anxious about a project deadline coming up. I worried that I wouldn't be able to finish on time and that it would reflect poorly on me.\
+After work, I went for a run to release some of my stress and anxiety. It was a challenging workout, but I felt better afterwards. Now, as I write this, I'm feeling tired but content. Overall, today had its ups and downs, but I'm grateful for the moments of positivity and productivity. I'm hoping to get a good night's sleep and start fresh tomorrow.\
+}

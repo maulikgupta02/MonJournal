@@ -1,0 +1,18 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red199\green203\blue211;\red52\green54\blue66;}
+{\*\expandedcolortbl;;\cssrgb\c81961\c83529\c85882;\cssrgb\c26667\c27451\c32941;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa400\partightenfactor0
+
+\f0\fs32 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Dear Diary,\
+Today was another typical day at work. I woke up feeling tired, as usual, but managed to drag myself out of bed and get ready for the day ahead. As I got dressed, I couldn't help but feel a sense of dread at the thought of spending another day in the office.\
+When I arrived at work, I was greeted by the usual hustle and bustle of the office. My coworkers were chatting and laughing, but I couldn't seem to shake my feelings of gloom. As I sat down at my desk, I felt a sense of overwhelm wash over me. There were so many tasks on my to-do list, and I didn't even know where to start.\
+As the day went on, I found myself struggling to stay focused. I kept getting distracted by the sound of my coworkers' conversations or by the notifications on my phone. I felt like I was in a constant state of stress, trying to keep up with everything.\
+At lunchtime, I went outside for a walk to clear my head. The fresh air helped me feel a bit more refreshed, but I still couldn't shake my feelings of negativity. I felt like I was stuck in a rut, doing the same thing day in and day out.\
+As the afternoon wore on, I managed to get some work done, but it was a struggle. I felt like I was just going through the motions, not really making any progress. By the end of the day, I was exhausted both physically and mentally.\
+As I left the office and headed home, I couldn't help but feel a sense of relief that the day was over. But at the same time, I knew that I would just have to do it all over again tomorrow. I hope that I can find some way to break out of this cycle of negativity and find some joy in my work again.\
+Until tomorrow,\
+}
